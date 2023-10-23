@@ -1,4 +1,4 @@
-# MyApp
+# Test Task for uSense [Demo](https://maryanmats.github.io/usense-tt/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
